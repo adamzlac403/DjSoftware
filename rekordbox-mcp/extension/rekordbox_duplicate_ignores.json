@@ -1,0 +1,53 @@
+{
+  "note": "Pairs of file paths marked as NOT duplicates by the Rekordbox storage duplicate resolver. Delete this file or use Clear saved ignores inside the GUI to allow them to appear again.",
+  "ignored_pairs": [
+    [
+      "c:/users/adam/downloads/playlist_intro/01 monsters.mp3",
+      "c:/users/adam/onedrive/desktop/music/mp3,wavs,flacs/kanye west - my beautiful dark twisted fantasy - 01 - monster.flac"
+    ],
+    [
+      "c:/users/adam/downloads/playlist_intro/01.charli xcx - boys.mp3",
+      "c:/users/adam/downloads/playlist_intro/lizzo - cuz i love you - 12 - boys.flac"
+    ],
+    [
+      "c:/users/adam/downloads/playlist_intro/05. major lazer - lost (feat. mo).flac",
+      "c:/users/adam/downloads/playlist_intro/1-11 - lost.mp3"
+    ],
+    [
+      "c:/users/adam/downloads/playlist_intro/05. major lazer - lost (feat. mo).flac",
+      "c:/users/adam/music/pioneerdj/imported from device/contents/rscl & it's murph & twin diplomacy & jack august/lost/rscl & it's murph & twin diplomacy & jack a.flac"
+    ],
+    [
+      "c:/users/adam/downloads/playlist_intro/1-11 - lost.mp3",
+      "c:/users/adam/music/pioneerdj/imported from device/contents/rscl & it's murph & twin diplomacy & jack august/lost/rscl & it's murph & twin diplomacy & jack a.flac"
+    ],
+    [
+      "c:/users/adam/downloads/playlist_intro/jax jones - breathe (feat. ina wroldsen).mp3",
+      "c:/users/adam/music/pioneerdj/imported from device/contents/chris stussy, s.a.m_/get together/chris stussy - breather.flac"
+    ],
+    [
+      "c:/users/adam/music/pioneerdj/imported from device/contents/bobby schmurda ft problem/for promotional dj use only - not for sale - mym/bobby schmurda ft problem - hot nigga (remix.mp3",
+      "c:/users/adam/onedrive/desktop/music/mp3,wavs,flacs/bobby shmurda - hot nigga (intro outro) (dirty).mp3"
+    ],
+    [
+      "c:/users/adam/music/pioneerdj/imported from device/contents/k-trap feat skepta/unknownalbum/k-trap feat skepta - warm (remix).flac",
+      "c:/users/adam/onedrive/desktop/music/mp3,wavs,flacs/021. k-trap - warm.mp3"
+    ],
+    [
+      "c:/users/adam/music/pioneerdj/imported from device/contents/skepta/ignorance is bliss/1-08 - love me not.flac",
+      "c:/users/adam/music/pioneerdj/imported from device/contents/unknownartist/unknownalbum/love me not.wav"
+    ],
+    [
+      "c:/users/adam/music/pioneerdj/imported from device/contents/skeptic/ec2a dubs/skeptic - heartbroken edit [cm].wav",
+      "c:/users/adam/music/pioneerdj/imported from device/contents/t2 ft. jodie aysha/uk garage/t2 - heartbroken (radio edit) ft. jodie ays.flac"
+    ],
+    [
+      "c:/users/adam/onedrive/desktop/music/gay halloween/01 - dynamite.flac",
+      "c:/users/adam/onedrive/desktop/music/mp3,wavs,flacs/1-01 - dynamite.mp3"
+    ],
+    [
+      "c:/users/adam/onedrive/desktop/music/mp3,wavs,flacs/el alfa & myke towers - se riega (ck intro - dirty) 3a 112.mp3",
+      "c:/users/adam/onedrive/desktop/music/mp3,wavs,flacs/el alfa & myke towers - se riega (intro - dirty).mp3"
+    ]
+  ]
+}

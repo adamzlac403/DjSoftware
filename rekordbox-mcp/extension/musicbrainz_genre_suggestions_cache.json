@@ -1,0 +1,3063 @@
+{
+  "::122 sisqo - thong song 4 13 version dirty flac": {
+    "status": "not_found",
+    "artist": "",
+    "title": "122 sisqo - thong song 4 13 version dirty flac",
+    "query_artist": "",
+    "query_title": "122 sisqo - thong song 4 13 version dirty flac",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "from_cache": false,
+    "debug": [
+      "Track metadata: artist='', title='122 sisqo - thong song 4 13 version dirty flac'",
+      "SEARCH [artist_title]: recording:\"122 sisqo - thong song 4 13 version dirty flac\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22122+sisqo+-+thong+song+4+13+version+dirty+flac%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ]
+  },
+  "sisqo::thong song": {
+    "status": "not_found",
+    "artist": "sisqo",
+    "title": "thong song",
+    "query_artist": "sisqo",
+    "query_title": "thong song",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "b194fc72-69d1-4b0f-b85f-2afd19dca3e9",
+        "title": "Thong Song",
+        "artist": "Sisqó",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "b76650e2-8b9e-4451-b27f-677935dfa57f",
+        "title": "Thong Song",
+        "artist": "Sisqó",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "5921f7f2-04bb-40ec-a830-09e1e05e59f7",
+        "title": "Thong Song",
+        "artist": "Sisqó",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "f398d590-3b53-4c2e-9688-504bca9e50d0",
+        "title": "Thong Song",
+        "artist": "Sisqó",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "7d853127-eb5a-4c90-941a-9e8fd8630417",
+        "title": "Thong Song",
+        "artist": "Sisqó",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'sisqo::thong song'",
+      "Display title field: 'Thong Song (Intro - Dirty)'",
+      "MusicBrainz lookup metadata: artist='sisqo', title='thong song'",
+      "SEARCH [artist_title]: artist:\"sisqo\" AND recording:\"thong song\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22sisqo%22+AND+recording%3A%22thong+song%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | Sisqó - Thong Song | id=b194fc72-69d1-4b0f-b85f-2afd19dca3e9",
+      "  - score=100 | Sisqó - Thong Song | id=b76650e2-8b9e-4451-b27f-677935dfa57f",
+      "  - score=100 | Sisqó - Thong Song | id=5921f7f2-04bb-40ec-a830-09e1e05e59f7",
+      "  - score=100 | Sisqó - Thong Song | id=f398d590-3b53-4c2e-9688-504bca9e50d0",
+      "  - score=100 | Sisqó - Thong Song | id=7d853127-eb5a-4c90-941a-9e8fd8630417",
+      "LOOKUP [artist_title]: score=100.0 | Sisqó - Thong Song | b194fc72-69d1-4b0f-b85f-2afd19dca3e9",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Sisqó - Thong Song | b76650e2-8b9e-4451-b27f-677935dfa57f",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Sisqó - Thong Song | 5921f7f2-04bb-40ec-a830-09e1e05e59f7",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Sisqó - Thong Song | f398d590-3b53-4c2e-9688-504bca9e50d0",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Sisqó - Thong Song | 7d853127-eb5a-4c90-941a-9e8fd8630417",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ]
+  },
+  "sisqo::thong song 4": {
+    "status": "not_found",
+    "artist": "sisqo",
+    "title": "thong song 4",
+    "query_artist": "sisqo",
+    "query_title": "thong song 4",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'sisqo::thong song 4'",
+      "Display title field: 'Thong Song 4 (Intro - Dirty)'",
+      "MusicBrainz lookup metadata: artist='sisqo', title='thong song 4'",
+      "SEARCH [artist_title]: artist:\"sisqo\" AND recording:\"thong song 4\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22sisqo%22+AND+recording%3A%22thong+song+4%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"thong song 4\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22thong+song+4%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "automatic": false
+  },
+  "love goodbyes reprise::conducta": {
+    "status": "not_found",
+    "artist": "love goodbyes reprise",
+    "title": "conducta",
+    "query_artist": "love goodbyes reprise",
+    "query_title": "conducta",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "41e52a8e-8251-4163-badf-f567158fdd5a",
+        "title": "Conducta",
+        "artist": "Hellfish",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "0fc77993-5fd2-4e90-a132-8bda4319f918",
+        "title": "Sin conducta",
+        "artist": "Los Castigos",
+        "score": 86.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "6be258c7-7942-4f68-adf7-e4e24ef21b03",
+        "title": "Mala Conducta",
+        "artist": "Reggaeton Latino Band",
+        "score": 86.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "9187bf9e-7eec-4758-8f74-104dc4db12fe",
+        "title": "Politica conducta",
+        "artist": "Juanjo Melero",
+        "score": 86.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "03592c9f-0c18-4abb-b439-8ae475616d7b",
+        "title": "Conducta Errática",
+        "artist": "El Ojo y la Navaja",
+        "score": 86.0,
+        "search_mode": "title_only"
+      }
+    ],
+    "from_cache": false,
+    "debug": [
+      "Display title field: 'Conducta'",
+      "MusicBrainz lookup metadata: artist='love goodbyes reprise', title='conducta'",
+      "SEARCH [artist_title]: artist:\"love goodbyes reprise\" AND recording:\"conducta\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22love+goodbyes+reprise%22+AND+recording%3A%22conducta%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"conducta\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22conducta%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | Hellfish - Conducta | id=41e52a8e-8251-4163-badf-f567158fdd5a",
+      "  - score=86 | Los Castigos - Sin conducta | id=0fc77993-5fd2-4e90-a132-8bda4319f918",
+      "  - score=86 | Reggaeton Latino Band - Mala Conducta | id=6be258c7-7942-4f68-adf7-e4e24ef21b03",
+      "  - score=86 | Juanjo Melero - Politica conducta | id=9187bf9e-7eec-4758-8f74-104dc4db12fe",
+      "  - score=86 | El Ojo y la Navaja - Conducta Errática | id=03592c9f-0c18-4abb-b439-8ae475616d7b",
+      "LOOKUP [title_only]: score=100.0 | Hellfish - Conducta | 41e52a8e-8251-4163-badf-f567158fdd5a",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=86.0 | Los Castigos - Sin conducta | 0fc77993-5fd2-4e90-a132-8bda4319f918",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=86.0 | Reggaeton Latino Band - Mala Conducta | 6be258c7-7942-4f68-adf7-e4e24ef21b03",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=86.0 | Juanjo Melero - Politica conducta | 9187bf9e-7eec-4758-8f74-104dc4db12fe",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=86.0 | El Ojo y la Navaja - Conducta Errática | 03592c9f-0c18-4abb-b439-8ae475616d7b",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ]
+  },
+  "love::goodbyes reprise conducta": {
+    "status": "not_found",
+    "artist": "love",
+    "title": "goodbyes reprise conducta",
+    "query_artist": "love",
+    "query_title": "goodbyes reprise conducta",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'love::goodbyes reprise conducta'",
+      "Display title field: 'Goodbyes Reprise Conducta'",
+      "MusicBrainz lookup metadata: artist='love', title='goodbyes reprise conducta'",
+      "SEARCH [artist_title]: artist:\"love\" AND recording:\"goodbyes reprise conducta\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22love%22+AND+recording%3A%22goodbyes+reprise+conducta%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"goodbyes reprise conducta\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22goodbyes+reprise+conducta%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "automatic": true
+  },
+  "hojo-16::o s": {
+    "status": "ok",
+    "artist": "hojo-16",
+    "title": "o s",
+    "query_artist": "hojo-16",
+    "query_title": "o s",
+    "suggestions": [
+      {
+        "name": "Experimental",
+        "score": 4.0,
+        "confidence": 100,
+        "playlist_path": [
+          "Experimental"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "experimental"
+        ]
+      }
+    ],
+    "raw_tags": [
+      "experimental"
+    ],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "61f0cc64-260b-4759-ab8d-2bc8fd531460",
+        "title": "O・S・O・S",
+        "artist": "種ともこ",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "fa7ae24f-1f45-4ea9-bb03-0049c2cabe74",
+        "title": "S-O-S-O-S",
+        "artist": "Indian Jewelry",
+        "score": 92.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "f0a4128c-3baf-45ee-afbf-ae33e5d6ccc5",
+        "title": "(O.S.)",
+        "artist": "scott is okay",
+        "score": 91.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "1f3bccda-eecf-43d6-8d90-568525d32247",
+        "title": "O・S",
+        "artist": "BiSH",
+        "score": 91.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "fdd6403d-29d1-4f7f-9340-5b33c1a9253d",
+        "title": "O・S",
+        "artist": "BiSH",
+        "score": 91.0,
+        "search_mode": "title_only"
+      }
+    ],
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'hojo-16::o s'",
+      "Display title field: 'O S feat'",
+      "MusicBrainz lookup metadata: artist='hojo-16', title='o s'",
+      "SEARCH [artist_title]: artist:\"hojo-16\" AND recording:\"o s\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22hojo-16%22+AND+recording%3A%22o+s%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"o s\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22o+s%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | 種ともこ - O・S・O・S | id=61f0cc64-260b-4759-ab8d-2bc8fd531460",
+      "  - score=92 | Indian Jewelry - S-O-S-O-S | id=fa7ae24f-1f45-4ea9-bb03-0049c2cabe74",
+      "  - score=91 | scott is okay - (O.S.) | id=f0a4128c-3baf-45ee-afbf-ae33e5d6ccc5",
+      "  - score=91 | BiSH - O・S | id=1f3bccda-eecf-43d6-8d90-568525d32247",
+      "  - score=91 | BiSH - O・S | id=fdd6403d-29d1-4f7f-9340-5b33c1a9253d",
+      "LOOKUP [title_only]: score=100.0 | 種ともこ - O・S・O・S | 61f0cc64-260b-4759-ab8d-2bc8fd531460",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=92.0 | Indian Jewelry - S-O-S-O-S | fa7ae24f-1f45-4ea9-bb03-0049c2cabe74",
+      "  genres: 1 value(s)",
+      "  tags: 1 value(s)",
+      "LOOKUP [title_only]: score=91.0 | scott is okay - (O.S.) | f0a4128c-3baf-45ee-afbf-ae33e5d6ccc5",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=91.0 | BiSH - O・S | 1f3bccda-eecf-43d6-8d90-568525d32247",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=91.0 | BiSH - O・S | fdd6403d-29d1-4f7f-9340-5b33c1a9253d",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 1",
+      "Raw tags: experimental",
+      "Mapped SORTED playlist suggestions: 1",
+      "  -> Experimental (100%) path=SORTED/Experimental exists=False"
+    ]
+  },
+  "dnl::space shuttle": {
+    "status": "not_found",
+    "artist": "dnl",
+    "title": "space shuttle",
+    "query_artist": "dnl",
+    "query_title": "space shuttle",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "a9cf470f-59ff-4146-a50a-bd026f329b5a",
+        "title": "Space Shuttle",
+        "artist": "Captain Sensible",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "ea3b3ddf-43d9-4d68-bb76-b8fad6b77547",
+        "title": "Space Shuttle",
+        "artist": "Money Boy",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "f3a0f28a-06c4-4294-8a63-a947e922b376",
+        "title": "Space Shuttle",
+        "artist": "Mystified",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "1e78cb12-3d2c-400b-87da-2728d27d656f",
+        "title": "Space Shuttle",
+        "artist": "Gil Scott‐Heron",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "d3635918-1f69-44f3-b634-31f698e8b82d",
+        "title": "Space Shuttle",
+        "artist": "Raffaele Rinciari",
+        "score": 100.0,
+        "search_mode": "title_only"
+      }
+    ],
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'dnl::space shuttle'",
+      "Display title field: 'Space Shuttle'",
+      "MusicBrainz lookup metadata: artist='dnl', title='space shuttle'",
+      "SEARCH [artist_title]: artist:\"dnl\" AND recording:\"space shuttle\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22dnl%22+AND+recording%3A%22space+shuttle%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"space shuttle\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22space+shuttle%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | Captain Sensible - Space Shuttle | id=a9cf470f-59ff-4146-a50a-bd026f329b5a",
+      "  - score=100 | Money Boy - Space Shuttle | id=ea3b3ddf-43d9-4d68-bb76-b8fad6b77547",
+      "  - score=100 | Mystified - Space Shuttle | id=f3a0f28a-06c4-4294-8a63-a947e922b376",
+      "  - score=100 | Gil Scott‐Heron - Space Shuttle | id=1e78cb12-3d2c-400b-87da-2728d27d656f",
+      "  - score=100 | Raffaele Rinciari - Space Shuttle | id=d3635918-1f69-44f3-b634-31f698e8b82d",
+      "LOOKUP [title_only]: score=100.0 | Captain Sensible - Space Shuttle | a9cf470f-59ff-4146-a50a-bd026f329b5a",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | Money Boy - Space Shuttle | ea3b3ddf-43d9-4d68-bb76-b8fad6b77547",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | Mystified - Space Shuttle | f3a0f28a-06c4-4294-8a63-a947e922b376",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | Gil Scott‐Heron - Space Shuttle | 1e78cb12-3d2c-400b-87da-2728d27d656f",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | Raffaele Rinciari - Space Shuttle | d3635918-1f69-44f3-b634-31f698e8b82d",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ]
+  },
+  "whitney houston::i wanna dance with so": {
+    "status": "not_found",
+    "artist": "whitney houston",
+    "title": "i wanna dance with so",
+    "query_artist": "whitney houston",
+    "query_title": "i wanna dance with so",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'whitney houston::i wanna dance with so'",
+      "Display title field: 'I Wanna Dance With So'",
+      "MusicBrainz lookup metadata: artist='whitney houston', title='i wanna dance with so'",
+      "SEARCH [artist_title]: artist:\"whitney houston\" AND recording:\"i wanna dance with so\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22whitney+houston%22+AND+recording%3A%22i+wanna+dance+with+so%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"i wanna dance with so\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22i+wanna+dance+with+so%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ]
+  },
+  "::savage - runnin": {
+    "status": "not_found",
+    "artist": "",
+    "title": "savage - runnin",
+    "query_artist": "",
+    "query_title": "savage - runnin",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: '::savage - runnin'",
+      "Display title field: '02. 21 Savage - Runnin'",
+      "MusicBrainz lookup metadata: artist='', title='savage - runnin'",
+      "SEARCH [artist_title]: recording:\"savage - runnin\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22savage+-+runnin%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ]
+  },
+  "21 savage::runnin": {
+    "status": "ok",
+    "artist": "21 savage",
+    "title": "runnin",
+    "query_artist": "21 savage",
+    "query_title": "runnin",
+    "suggestions": [
+      {
+        "name": "Trap / Wave",
+        "score": 1.0,
+        "confidence": 100,
+        "playlist_path": [
+          "Trap / Wave"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "trap / wave"
+        ]
+      }
+    ],
+    "raw_tags": [
+      "trap / wave"
+    ],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "e2a7c952-6ce2-48a0-be32-d5eb07b2ca7f",
+        "title": "Runnin",
+        "artist": "21 Savage",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "2178e447-2d40-45a0-94f6-ac7358cd53c6",
+        "title": "Runnin",
+        "artist": "21 Savage, Metro Boomin",
+        "score": 79.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "67f51a73-f2be-40cf-a928-f158e5239e60",
+        "title": "Runnin",
+        "artist": "21 Savage, Metro Boomin",
+        "score": 79.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "02877e48-3f55-4556-8c9b-003ce1885378",
+        "title": "Runnin (ChopNotSlop remix)",
+        "artist": "21 Savage, Metro Boomin",
+        "score": 69.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "afffa77f-9031-4355-b299-c7d22fe5dce7",
+        "title": "Marked / Runnin (edit)",
+        "artist": "Criso, 21 Savage, Metro Boomin",
+        "score": 59.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "year": 2020,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: '21 savage::runnin'",
+      "Display title field: 'Runnin'",
+      "MusicBrainz lookup metadata: artist='21 savage', title='runnin'",
+      "SEARCH [artist_title]: artist:\"21 savage\" AND recording:\"runnin\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%2221+savage%22+AND+recording%3A%22runnin%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | 21 Savage - Runnin | id=e2a7c952-6ce2-48a0-be32-d5eb07b2ca7f",
+      "  - score=79 | 21 Savage, Metro Boomin - Runnin | id=2178e447-2d40-45a0-94f6-ac7358cd53c6",
+      "  - score=79 | 21 Savage, Metro Boomin - Runnin | id=67f51a73-f2be-40cf-a928-f158e5239e60",
+      "  - score=69 | 21 Savage, Metro Boomin - Runnin (ChopNotSlop remix) | id=02877e48-3f55-4556-8c9b-003ce1885378",
+      "  - score=59 | Criso, 21 Savage, Metro Boomin - Marked / Runnin (edit) | id=afffa77f-9031-4355-b299-c7d22fe5dce7",
+      "LOOKUP [artist_title]: score=100.0 | 21 Savage - Runnin | e2a7c952-6ce2-48a0-be32-d5eb07b2ca7f",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=79.0 | 21 Savage, Metro Boomin - Runnin | 2178e447-2d40-45a0-94f6-ac7358cd53c6",
+      "  year candidate: 2020",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=79.0 | 21 Savage, Metro Boomin - Runnin | 67f51a73-f2be-40cf-a928-f158e5239e60",
+      "  year candidate: 2020",
+      "  genres: 0 value(s)",
+      "  tags: 1 value(s)",
+      "LOOKUP [artist_title]: score=69.0 | 21 Savage, Metro Boomin - Runnin (ChopNotSlop remix) | 02877e48-3f55-4556-8c9b-003ce1885378",
+      "  year candidate: 2020",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=59.0 | Criso, 21 Savage, Metro Boomin - Marked / Runnin (edit) | afffa77f-9031-4355-b299-c7d22fe5dce7",
+      "  year candidate: 2024",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 1",
+      "Raw tags: trap / wave",
+      "Mapped SORTED playlist suggestions: 1",
+      "  -> Trap / Wave (100%) path=SORTED/Trap / Wave exists=False"
+    ]
+  },
+  "::savage - glock in my lap": {
+    "status": "not_found",
+    "artist": "",
+    "title": "savage - glock in my lap",
+    "query_artist": "",
+    "query_title": "savage - glock in my lap",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: '::savage - glock in my lap'",
+      "Display title field: '03. 21 Savage - Glock In My Lap'",
+      "MusicBrainz lookup metadata: artist='', title='savage - glock in my lap'",
+      "SEARCH [artist_title]: recording:\"savage - glock in my lap\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22savage+-+glock+in+my+lap%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "automatic": true
+  },
+  "21 savage::glock in my lap": {
+    "status": "ok",
+    "artist": "21 savage",
+    "title": "glock in my lap",
+    "query_artist": "21 savage",
+    "query_title": "glock in my lap",
+    "suggestions": [
+      {
+        "name": "Hip Hop",
+        "score": 4.0,
+        "confidence": 100,
+        "playlist_path": [
+          "Hip Hop"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "hip hop"
+        ]
+      }
+    ],
+    "raw_tags": [
+      "hip hop"
+    ],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "6a72137d-3573-44f4-8e81-3915b344df18",
+        "title": "Glock in My Lap",
+        "artist": "21 Savage, Metro Boomin",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "2c12d569-01e7-41d6-8b3f-16393ebfaa69",
+        "title": "Glock in My Lap",
+        "artist": "21 Savage, Metro Boomin",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "4771c3a1-3bd7-402c-b8a1-c9ec003b337c",
+        "title": "Glock in My Lap (ChopNotSlop remix)",
+        "artist": "21 Savage, Metro Boomin",
+        "score": 87.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "year": 2020,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: '21 savage::glock in my lap'",
+      "Display title field: 'Glock in My Lap'",
+      "MusicBrainz lookup metadata: artist='21 savage', title='glock in my lap'",
+      "SEARCH [artist_title]: artist:\"21 savage\" AND recording:\"glock in my lap\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%2221+savage%22+AND+recording%3A%22glock+in+my+lap%22&fmt=json&limit=5",
+      "Recordings returned: 3",
+      "  - score=100 | 21 Savage, Metro Boomin - Glock in My Lap | id=6a72137d-3573-44f4-8e81-3915b344df18",
+      "  - score=100 | 21 Savage, Metro Boomin - Glock in My Lap | id=2c12d569-01e7-41d6-8b3f-16393ebfaa69",
+      "  - score=87 | 21 Savage, Metro Boomin - Glock in My Lap (ChopNotSlop remix) | id=4771c3a1-3bd7-402c-b8a1-c9ec003b337c",
+      "LOOKUP [artist_title]: score=100.0 | 21 Savage, Metro Boomin - Glock in My Lap | 6a72137d-3573-44f4-8e81-3915b344df18",
+      "  year candidate: 2020",
+      "  genres: 1 value(s)",
+      "  tags: 1 value(s)",
+      "LOOKUP [artist_title]: score=100.0 | 21 Savage, Metro Boomin - Glock in My Lap | 2c12d569-01e7-41d6-8b3f-16393ebfaa69",
+      "  year candidate: 2020",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=87.0 | 21 Savage, Metro Boomin - Glock in My Lap (ChopNotSlop remix) | 4771c3a1-3bd7-402c-b8a1-c9ec003b337c",
+      "  year candidate: 2020",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 1",
+      "Raw tags: hip hop",
+      "Mapped SORTED playlist suggestions: 1",
+      "  -> Hip Hop (100%) path=SORTED/Hip Hop exists=False"
+    ]
+  },
+  "eloq & main phase::id unreleased e1itpplsd6c": {
+    "status": "not_found",
+    "artist": "eloq & main phase",
+    "title": "id unreleased e1itpplsd6c",
+    "query_artist": "eloq & main phase",
+    "query_title": "id unreleased e1itpplsd6c",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'eloq & main phase::id unreleased e1itpplsd6c'",
+      "Display title field: 'ID Unreleased E1itpPlSd6c'",
+      "MusicBrainz lookup metadata: artist='eloq & main phase', title='id unreleased e1itpplsd6c'",
+      "SEARCH [artist_title]: artist:\"eloq & main phase\" AND recording:\"id unreleased e1itpplsd6c\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22eloq+%26+main+phase%22+AND+recording%3A%22id+unreleased+e1itpplsd6c%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"id unreleased e1itpplsd6c\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22id+unreleased+e1itpplsd6c%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "automatic": true
+  },
+  "eloq & main phase::mythic - sensation mix": {
+    "status": "not_found",
+    "artist": "eloq & main phase",
+    "title": "mythic - sensation mix",
+    "query_artist": "eloq & main phase",
+    "query_title": "mythic - sensation mix",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'eloq & main phase::mythic - sensation mix'",
+      "Display title field: 'Mythic - Sensation Mix'",
+      "MusicBrainz lookup metadata: artist='eloq & main phase', title='mythic - sensation mix'",
+      "SEARCH [artist_title]: artist:\"eloq & main phase\" AND recording:\"mythic - sensation mix\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22eloq+%26+main+phase%22+AND+recording%3A%22mythic+-+sensation+mix%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"mythic - sensation mix\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22mythic+-+sensation+mix%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ]
+  },
+  "::04 iggy azalea": {
+    "status": "not_found",
+    "artist": "",
+    "title": "04 iggy azalea",
+    "query_artist": "",
+    "query_title": "04 iggy azalea",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: '::04 iggy azalea'",
+      "Display title field: '04. Iggy Azalea Ft Charlie Xcx - Fancy (Ck Intro - Dirty)'",
+      "MusicBrainz lookup metadata: artist='', title='04 iggy azalea'",
+      "SEARCH [artist_title]: recording:\"04 iggy azalea\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%2204+iggy+azalea%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "automatic": true
+  },
+  "iggy azalea::fancy": {
+    "status": "ok",
+    "artist": "iggy azalea",
+    "title": "fancy",
+    "query_artist": "iggy azalea",
+    "query_title": "fancy",
+    "suggestions": [
+      {
+        "name": "Hip Hop",
+        "score": 17.0,
+        "confidence": 100,
+        "playlist_path": [
+          "Hip Hop"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "hip hop",
+          "rap"
+        ]
+      },
+      {
+        "name": "Pop",
+        "score": 12.0,
+        "confidence": 71,
+        "playlist_path": [
+          "Pop"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "pop"
+        ]
+      },
+      {
+        "name": "Crunk",
+        "score": 8.0,
+        "confidence": 47,
+        "playlist_path": [
+          "Crunk"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "crunk"
+        ]
+      },
+      {
+        "name": "Electro",
+        "score": 8.0,
+        "confidence": 47,
+        "playlist_path": [
+          "Electro"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "electro"
+        ]
+      },
+      {
+        "name": "Electronic",
+        "score": 8.0,
+        "confidence": 47,
+        "playlist_path": [
+          "Electronic"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "electronic"
+        ]
+      },
+      {
+        "name": "Pop Rap",
+        "score": 8.0,
+        "confidence": 47,
+        "playlist_path": [
+          "Pop Rap"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "pop rap"
+        ]
+      },
+      {
+        "name": "Trap",
+        "score": 8.0,
+        "confidence": 47,
+        "playlist_path": [
+          "Trap"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "trap"
+        ]
+      }
+    ],
+    "raw_tags": [
+      "crunk",
+      "electro",
+      "electronic",
+      "hip hop",
+      "pop",
+      "pop rap",
+      "rap",
+      "trap"
+    ],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "3065f80a-264d-439a-9487-15004908b8eb",
+        "title": "Fancy",
+        "artist": "Iggy Azalea",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "6a648c4b-8225-42dd-a0f7-05e11d8edebb",
+        "title": "Fancy",
+        "artist": "Iggy Azalea",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "535e61c5-3ec0-485e-a50d-17cea0467a62",
+        "title": "Fancy (GTA remix)",
+        "artist": "Iggy Azalea",
+        "score": 91.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "37e33952-7a1d-42a7-a5e5-9bee465aa5c8",
+        "title": "Fancy",
+        "artist": "Iggy Azalea, Charli xcx",
+        "score": 78.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "1d0095e6-3e6d-4cc7-ac2b-084dfb1304bf",
+        "title": "Fancy",
+        "artist": "Iggy Azalea, Charli xcx",
+        "score": 78.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "year": 2014,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'iggy azalea::fancy'",
+      "Display title field: 'Fancy (Intro - Dirty)'",
+      "MusicBrainz lookup metadata: artist='iggy azalea', title='fancy'",
+      "SEARCH [artist_title]: artist:\"iggy azalea\" AND recording:\"fancy\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22iggy+azalea%22+AND+recording%3A%22fancy%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | Iggy Azalea - Fancy | id=3065f80a-264d-439a-9487-15004908b8eb",
+      "  - score=100 | Iggy Azalea - Fancy | id=6a648c4b-8225-42dd-a0f7-05e11d8edebb",
+      "  - score=91 | Iggy Azalea - Fancy (GTA remix) | id=535e61c5-3ec0-485e-a50d-17cea0467a62",
+      "  - score=78 | Iggy Azalea, Charli xcx - Fancy | id=37e33952-7a1d-42a7-a5e5-9bee465aa5c8",
+      "  - score=78 | Iggy Azalea, Charli xcx - Fancy | id=1d0095e6-3e6d-4cc7-ac2b-084dfb1304bf",
+      "LOOKUP [artist_title]: score=100.0 | Iggy Azalea - Fancy | 3065f80a-264d-439a-9487-15004908b8eb",
+      "  year candidate: 2014",
+      "  genres: 7 value(s)",
+      "  tags: 8 value(s)",
+      "LOOKUP [artist_title]: score=100.0 | Iggy Azalea - Fancy | 6a648c4b-8225-42dd-a0f7-05e11d8edebb",
+      "  year candidate: 2014",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=91.0 | Iggy Azalea - Fancy (GTA remix) | 535e61c5-3ec0-485e-a50d-17cea0467a62",
+      "  year candidate: 2014",
+      "  genres: 7 value(s)",
+      "  tags: 7 value(s)",
+      "LOOKUP [artist_title]: score=78.0 | Iggy Azalea, Charli xcx - Fancy | 37e33952-7a1d-42a7-a5e5-9bee465aa5c8",
+      "  year candidate: 2014",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=78.0 | Iggy Azalea, Charli xcx - Fancy | 1d0095e6-3e6d-4cc7-ac2b-084dfb1304bf",
+      "  year candidate: 2014",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 8",
+      "Raw tags: crunk, electro, electronic, hip hop, pop, pop rap, rap, trap",
+      "Mapped SORTED playlist suggestions: 7",
+      "  -> Hip Hop (100%) path=SORTED/Hip Hop exists=False",
+      "  -> Pop (71%) path=SORTED/Pop exists=False",
+      "  -> Crunk (47%) path=SORTED/Crunk exists=False",
+      "  -> Electro (47%) path=SORTED/Electro exists=False",
+      "  -> Electronic (47%) path=SORTED/Electronic exists=False",
+      "  -> Pop Rap (47%) path=SORTED/Pop Rap exists=False",
+      "  -> Trap (47%) path=SORTED/Trap exists=False"
+    ]
+  },
+  "since::youve been gone": {
+    "status": "ok",
+    "artist": "since",
+    "title": "youve been gone",
+    "query_artist": "since",
+    "query_title": "youve been gone",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "8fd607cd-b3a3-47d1-9f7c-032102abaffb",
+        "title": "Youve Been Gone",
+        "artist": "Avi Rosenfeld, Marco Buono",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "b6c76ee2-3c82-43be-bd62-400d5d92c717",
+        "title": "Since Youʼve Been Gone",
+        "artist": "Velvet Angels",
+        "score": 89.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "b3f3c7ee-3c02-43f5-b528-b42388ff6a2a",
+        "title": "Since Youve Been Gone",
+        "artist": "Magdalena Reising",
+        "score": 89.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "1f842f95-8da8-4144-9ffb-29794234b6b7",
+        "title": "Ever Since Youve Been Gone",
+        "artist": "The Hawks",
+        "score": 80.0,
+        "search_mode": "title_only"
+      }
+    ],
+    "year": 2001,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'since::youve been gone'",
+      "Display title field: 'Youve Been Gone'",
+      "MusicBrainz lookup metadata: artist='since', title='youve been gone'",
+      "SEARCH [artist_title]: artist:\"since\" AND recording:\"youve been gone\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22since%22+AND+recording%3A%22youve+been+gone%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"youve been gone\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22youve+been+gone%22&fmt=json&limit=5",
+      "Recordings returned: 4",
+      "  - score=100 | Avi Rosenfeld, Marco Buono - Youve Been Gone | id=8fd607cd-b3a3-47d1-9f7c-032102abaffb",
+      "  - score=89 | Velvet Angels - Since Youʼve Been Gone | id=b6c76ee2-3c82-43be-bd62-400d5d92c717",
+      "  - score=89 | Magdalena Reising - Since Youve Been Gone | id=b3f3c7ee-3c02-43f5-b528-b42388ff6a2a",
+      "  - score=80 | The Hawks - Ever Since Youve Been Gone | id=1f842f95-8da8-4144-9ffb-29794234b6b7",
+      "LOOKUP [title_only]: score=100.0 | Avi Rosenfeld, Marco Buono - Youve Been Gone | 8fd607cd-b3a3-47d1-9f7c-032102abaffb",
+      "  year candidate: 2017",
+      "  album candidate: Comin’ to You",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=89.0 | Velvet Angels - Since Youʼve Been Gone | b6c76ee2-3c82-43be-bd62-400d5d92c717",
+      "  year candidate: 2011",
+      "  album candidate: Golden Oldies (remastered)",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=89.0 | Magdalena Reising - Since Youve Been Gone | b3f3c7ee-3c02-43f5-b528-b42388ff6a2a",
+      "  year candidate: 2007",
+      "  album candidate: Blue Cafe",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=80.0 | The Hawks - Ever Since Youve Been Gone | 1f842f95-8da8-4144-9ffb-29794234b6b7",
+      "  year candidate: 2001",
+      "  album candidate: Modern Vocal Groups Volume 5",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": "Blue Cafe",
+    "automatic": true
+  },
+  "kelly clarkson::since you've been gone": {
+    "status": "ok",
+    "artist": "kelly clarkson",
+    "title": "since you've been gone",
+    "query_artist": "kelly clarkson",
+    "query_title": "since you've been gone",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "43064acf-d4d8-4e8a-bbb5-111cc1f1f410",
+        "title": "Since You've Been Gone",
+        "artist": "Kelly Clarkson",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "year": 2017,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: \"kelly clarkson::since you've been gone\"",
+      "Display title field: \"Since You've Been Gone\"",
+      "MusicBrainz lookup metadata: artist='kelly clarkson', title=\"since you've been gone\"",
+      "SEARCH [artist_title]: artist:\"kelly clarkson\" AND recording:\"since you've been gone\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22kelly+clarkson%22+AND+recording%3A%22since+you%27ve+been+gone%22&fmt=json&limit=5",
+      "Recordings returned: 1",
+      "  - score=100 | Kelly Clarkson - Since You've Been Gone | id=43064acf-d4d8-4e8a-bbb5-111cc1f1f410",
+      "LOOKUP [artist_title]: score=100.0 | Kelly Clarkson - Since You've Been Gone | 43064acf-d4d8-4e8a-bbb5-111cc1f1f410",
+      "  year candidate: 2017",
+      "  album candidate: 2017-11-01: The Howard Stern Show: New York, NY, USA",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": "2017-11-01: The Howard Stern Show: New York, NY, USA",
+    "automatic": false
+  },
+  "kid cudi::maui wowie": {
+    "status": "ok",
+    "artist": "kid cudi",
+    "title": "maui wowie",
+    "query_artist": "kid cudi",
+    "query_title": "maui wowie",
+    "suggestions": [
+      {
+        "name": "Billboard Hot 100",
+        "score": 1.0,
+        "confidence": 100,
+        "playlist_path": [
+          "Billboard Hot 100"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "billboard hot 100"
+        ]
+      },
+      {
+        "name": "Billboard Hot 100 2025",
+        "score": 1.0,
+        "confidence": 100,
+        "playlist_path": [
+          "Billboard Hot 100 2025"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "billboard hot 100 2025"
+        ]
+      }
+    ],
+    "raw_tags": [
+      "billboard hot 100",
+      "billboard hot 100 2025"
+    ],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "8c84b014-8855-4fcf-ab76-62c0d7c05515",
+        "title": "Maui Wowie",
+        "artist": "Kid Cudi",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "870c69c2-6ff1-4dc4-ad1c-fb52339effe1",
+        "title": "Maui Wowie",
+        "artist": "Kid Cudi",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "year": 2008,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'kid cudi::maui wowie'",
+      "Display title field: 'Maui Wowie'",
+      "MusicBrainz lookup metadata: artist='kid cudi', title='maui wowie'",
+      "SEARCH [artist_title]: artist:\"kid cudi\" AND recording:\"maui wowie\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22kid+cudi%22+AND+recording%3A%22maui+wowie%22&fmt=json&limit=5",
+      "Recordings returned: 2",
+      "  - score=100 | Kid Cudi - Maui Wowie | id=8c84b014-8855-4fcf-ab76-62c0d7c05515",
+      "  - score=100 | Kid Cudi - Maui Wowie | id=870c69c2-6ff1-4dc4-ad1c-fb52339effe1",
+      "LOOKUP [artist_title]: score=100.0 | Kid Cudi - Maui Wowie | 8c84b014-8855-4fcf-ab76-62c0d7c05515",
+      "  year candidate: 2009",
+      "  album candidate: The Anthem: The Best of Kid Cudi",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Kid Cudi - Maui Wowie | 870c69c2-6ff1-4dc4-ad1c-fb52339effe1",
+      "  year candidate: 2008",
+      "  album candidate: A Kid Named Cudi",
+      "  genres: 0 value(s)",
+      "  tags: 2 value(s)",
+      "Raw unique tags returned: 2",
+      "Raw tags: billboard hot 100, billboard hot 100 2025",
+      "Mapped SORTED playlist suggestions: 2",
+      "  -> Billboard Hot 100 (100%) path=SORTED/Billboard Hot 100 exists=False",
+      "  -> Billboard Hot 100 2025 (100%) path=SORTED/Billboard Hot 100 2025 exists=False"
+    ],
+    "album": "A Kid Named Cudi"
+  },
+  "::rasputin": {
+    "status": "ok",
+    "artist": "",
+    "title": "rasputin",
+    "query_artist": "",
+    "query_title": "rasputin",
+    "suggestions": [
+      {
+        "name": "Europop",
+        "score": 4.0,
+        "confidence": 100,
+        "playlist_path": [
+          "Europop"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "europop"
+        ]
+      },
+      {
+        "name": "Pop",
+        "score": 4.0,
+        "confidence": 100,
+        "playlist_path": [
+          "POP",
+          "POP"
+        ],
+        "playlist_exists": true,
+        "source_tags": [
+          "pop"
+        ]
+      },
+      {
+        "name": "Schlager",
+        "score": 4.0,
+        "confidence": 100,
+        "playlist_path": [
+          "Schlager"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "schlager"
+        ]
+      }
+    ],
+    "raw_tags": [
+      "europop",
+      "pop",
+      "schlager"
+    ],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "36dd9c98-a30c-4b8f-ba59-7d7a7a993e57",
+        "title": "Rasputin",
+        "artist": "Johnny Hollow",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "f73caa36-f6b2-45da-a6b7-e29c9f1b3cf5",
+        "title": "Rasputin",
+        "artist": "James Last",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "7172f45a-2894-40dc-b82f-e30c49bca909",
+        "title": "Rasputin",
+        "artist": "Billy Moffet’s Playboy Club",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "6f077930-7636-4b02-86b0-c7ca596a86da",
+        "title": "Rasputin",
+        "artist": "The Town Pants",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "e5c5f1fa-6f1e-4416-abfa-fdd1cd114e61",
+        "title": "Rasputin",
+        "artist": "Ten Masked Men",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "year": 1979,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: '::rasputin'",
+      "Display title field: 'Rasputin'",
+      "MusicBrainz lookup metadata: artist='', title='rasputin'",
+      "SEARCH [artist_title]: recording:\"rasputin\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22rasputin%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | Johnny Hollow - Rasputin | id=36dd9c98-a30c-4b8f-ba59-7d7a7a993e57",
+      "  - score=100 | James Last - Rasputin | id=f73caa36-f6b2-45da-a6b7-e29c9f1b3cf5",
+      "  - score=100 | Billy Moffet’s Playboy Club - Rasputin | id=7172f45a-2894-40dc-b82f-e30c49bca909",
+      "  - score=100 | The Town Pants - Rasputin | id=6f077930-7636-4b02-86b0-c7ca596a86da",
+      "  - score=100 | Ten Masked Men - Rasputin | id=e5c5f1fa-6f1e-4416-abfa-fdd1cd114e61",
+      "LOOKUP [artist_title]: score=100.0 | Johnny Hollow - Rasputin | 36dd9c98-a30c-4b8f-ba59-7d7a7a993e57",
+      "  year candidate: 2003",
+      "  album candidate: Johnny Hollow",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | James Last - Rasputin | f73caa36-f6b2-45da-a6b7-e29c9f1b3cf5",
+      "  year candidate: 1979",
+      "  album candidate: Last the Whole Night Long",
+      "  genres: 3 value(s)",
+      "  tags: 3 value(s)",
+      "LOOKUP [artist_title]: score=100.0 | Billy Moffet’s Playboy Club - Rasputin | 7172f45a-2894-40dc-b82f-e30c49bca909",
+      "  year candidate: 1994",
+      "  album candidate: Undercover, Volume 2",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | The Town Pants - Rasputin | 6f077930-7636-4b02-86b0-c7ca596a86da",
+      "  album candidate: Coming Home",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Ten Masked Men - Rasputin | e5c5f1fa-6f1e-4416-abfa-fdd1cd114e61",
+      "  year candidate: 2008",
+      "  album candidate: Attack of the Ten Masked Men",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 3",
+      "Raw tags: europop, pop, schlager",
+      "Mapped SORTED playlist suggestions: 3",
+      "  -> Europop (100%) path=SORTED/Europop exists=False",
+      "  -> Pop (100%) path=SORTED/POP/POP exists=True",
+      "  -> Schlager (100%) path=SORTED/Schlager exists=False"
+    ],
+    "album": "Coming Home"
+  },
+  "hamdi::skanka baile funk": {
+    "status": "not_found",
+    "artist": "hamdi",
+    "title": "skanka baile funk",
+    "query_artist": "hamdi",
+    "query_title": "skanka baile funk",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'hamdi::skanka baile funk'",
+      "Display title field: 'SKANKA BAILE FUNK'",
+      "MusicBrainz lookup metadata: artist='hamdi', title='skanka baile funk'",
+      "SEARCH [artist_title]: artist:\"hamdi\" AND recording:\"skanka baile funk\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22hamdi%22+AND+recording%3A%22skanka+baile+funk%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"skanka baile funk\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22skanka+baile+funk%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": null,
+    "automatic": true
+  },
+  "good::times jet boot jack": {
+    "status": "not_found",
+    "artist": "good",
+    "title": "times jet boot jack",
+    "query_artist": "good",
+    "query_title": "times jet boot jack",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'good::times jet boot jack'",
+      "Display title field: 'Times Jet Boot Jack'",
+      "MusicBrainz lookup metadata: artist='good', title='times jet boot jack'",
+      "SEARCH [artist_title]: artist:\"good\" AND recording:\"times jet boot jack\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22good%22+AND+recording%3A%22times+jet+boot+jack%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"times jet boot jack\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22times+jet+boot+jack%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": null,
+    "automatic": true
+  },
+  "hamdi::skanka baile funk y3llow edit": {
+    "status": "not_found",
+    "artist": "hamdi",
+    "title": "skanka baile funk y3llow edit",
+    "query_artist": "hamdi",
+    "query_title": "skanka baile funk y3llow edit",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'hamdi::skanka baile funk y3llow edit'",
+      "Display title field: 'SKANKA BAILE FUNK Y3LLOW EDIT'",
+      "MusicBrainz lookup metadata: artist='hamdi', title='skanka baile funk y3llow edit'",
+      "SEARCH [artist_title]: artist:\"hamdi\" AND recording:\"skanka baile funk y3llow edit\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22hamdi%22+AND+recording%3A%22skanka+baile+funk+y3llow+edit%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"skanka baile funk y3llow edit\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22skanka+baile+funk+y3llow+edit%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": null
+  },
+  "12a::126 - bellaire - brasil": {
+    "status": "not_found",
+    "artist": "12a",
+    "title": "126 - bellaire - brasil",
+    "query_artist": "12a",
+    "query_title": "126 - bellaire - brasil",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: '12a::126 - bellaire - brasil'",
+      "Display title field: '126 - Bellaire - Brasil'",
+      "MusicBrainz lookup metadata: artist='12a', title='126 - bellaire - brasil'",
+      "SEARCH [artist_title]: artist:\"12a\" AND recording:\"126 - bellaire - brasil\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%2212a%22+AND+recording%3A%22126+-+bellaire+-+brasil%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"126 - bellaire - brasil\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22126+-+bellaire+-+brasil%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": null,
+    "automatic": true
+  },
+  "bellaire::brasil": {
+    "status": "ok",
+    "artist": "bellaire",
+    "title": "brasil",
+    "query_artist": "bellaire",
+    "query_title": "brasil",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "4a4e85f9-7e6c-4875-9a19-e925d6fc52a3",
+        "title": "Brasil",
+        "artist": "Bellaire",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "167e3ebc-e805-42e2-8107-6e876c985bb6",
+        "title": "Brasil",
+        "artist": "Bellaire",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "year": 2018,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'bellaire::brasil'",
+      "Display title field: 'Brasil'",
+      "MusicBrainz lookup metadata: artist='bellaire', title='brasil'",
+      "SEARCH [artist_title]: artist:\"bellaire\" AND recording:\"brasil\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22bellaire%22+AND+recording%3A%22brasil%22&fmt=json&limit=5",
+      "Recordings returned: 2",
+      "  - score=100 | Bellaire - Brasil | id=4a4e85f9-7e6c-4875-9a19-e925d6fc52a3",
+      "  - score=100 | Bellaire - Brasil | id=167e3ebc-e805-42e2-8107-6e876c985bb6",
+      "LOOKUP [artist_title]: score=100.0 | Bellaire - Brasil | 4a4e85f9-7e6c-4875-9a19-e925d6fc52a3",
+      "  year candidate: 2023",
+      "  album candidate: Sunset Ballad",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Bellaire - Brasil | 167e3ebc-e805-42e2-8107-6e876c985bb6",
+      "  year candidate: 2018",
+      "  album candidate: Brasil",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": "Brasil"
+  },
+  "084::baby bash": {
+    "status": "ok",
+    "artist": "084",
+    "title": "baby bash",
+    "query_artist": "084",
+    "query_title": "baby bash",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "c6b76d1d-f774-48ca-907e-e47666c96e03",
+        "title": "Baby Bash",
+        "artist": "Milc, Televangel",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "81f003cc-a98e-4d4f-9852-44517ee7d014",
+        "title": "Baby Bash Drop",
+        "artist": "Baby Bash",
+        "score": 87.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "4b2c0d79-76e0-4086-be77-43c88ef70fe3",
+        "title": "That’s Wussup (feat. Baby Bash)",
+        "artist": "Frankie J",
+        "score": 70.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "35a016a7-044e-4116-acd3-3f8f7bd013a5",
+        "title": "Baby Bash (feat. Bluryda & Cocco Robin)",
+        "artist": "Scott South",
+        "score": 58.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "8cf7542a-bf11-4cd8-98d3-7878392de511",
+        "title": "Suga Suga (8-Bit Baby Bash & Frankie J Emulation)",
+        "artist": "8-Bit Arcade",
+        "score": 47.0,
+        "search_mode": "title_only"
+      }
+    ],
+    "year": 2011,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: '084::baby bash'",
+      "Display title field: 'Baby Bash ft'",
+      "MusicBrainz lookup metadata: artist='084', title='baby bash'",
+      "SEARCH [artist_title]: artist:\"084\" AND recording:\"baby bash\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22084%22+AND+recording%3A%22baby+bash%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"baby bash\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22baby+bash%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | Milc, Televangel - Baby Bash | id=c6b76d1d-f774-48ca-907e-e47666c96e03",
+      "  - score=87 | Baby Bash - Baby Bash Drop | id=81f003cc-a98e-4d4f-9852-44517ee7d014",
+      "  - score=70 | Frankie J - That’s Wussup (feat. Baby Bash) | id=4b2c0d79-76e0-4086-be77-43c88ef70fe3",
+      "  - score=58 | Scott South - Baby Bash (feat. Bluryda & Cocco Robin) | id=35a016a7-044e-4116-acd3-3f8f7bd013a5",
+      "  - score=47 | 8-Bit Arcade - Suga Suga (8-Bit Baby Bash & Frankie J Emulation) | id=8cf7542a-bf11-4cd8-98d3-7878392de511",
+      "LOOKUP [title_only]: score=100.0 | Milc, Televangel - Baby Bash | c6b76d1d-f774-48ca-907e-e47666c96e03",
+      "  year candidate: 2023",
+      "  album candidate: The Fish That Saved Portland",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=87.0 | Baby Bash - Baby Bash Drop | 81f003cc-a98e-4d4f-9852-44517ee7d014",
+      "  year candidate: 2011",
+      "  album candidate: Sheena G Files",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=70.0 | Frankie J - That’s Wussup (feat. Baby Bash) | 4b2c0d79-76e0-4086-be77-43c88ef70fe3",
+      "  year candidate: 2011",
+      "  album candidate: Courage",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=58.0 | Scott South - Baby Bash (feat. Bluryda & Cocco Robin) | 35a016a7-044e-4116-acd3-3f8f7bd013a5",
+      "  year candidate: 2021",
+      "  album candidate: Southaveli, Vol. 1",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=47.0 | 8-Bit Arcade - Suga Suga (8-Bit Baby Bash & Frankie J Emulation) | 8cf7542a-bf11-4cd8-98d3-7878392de511",
+      "  year candidate: 2021",
+      "  album candidate: By Request, Vol. 144",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": "Courage",
+    "automatic": true
+  },
+  "baby bash, t-pain::cyclone": {
+    "status": "ok",
+    "artist": "baby bash, t-pain",
+    "title": "cyclone",
+    "query_artist": "baby bash, t-pain",
+    "query_title": "cyclone",
+    "suggestions": [
+      {
+        "name": "Techno",
+        "score": 12.0,
+        "confidence": 100,
+        "playlist_path": [
+          "Techno"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "techno"
+        ]
+      },
+      {
+        "name": "Electronic",
+        "score": 8.0,
+        "confidence": 67,
+        "playlist_path": [
+          "Electronic"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "electronic"
+        ]
+      },
+      {
+        "name": "Electro",
+        "score": 4.0,
+        "confidence": 33,
+        "playlist_path": [
+          "Electro"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "electro"
+        ]
+      },
+      {
+        "name": "Minimal",
+        "score": 1.0,
+        "confidence": 8,
+        "playlist_path": [
+          "Minimal"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "minimal"
+        ]
+      },
+      {
+        "name": "Tribal",
+        "score": 1.0,
+        "confidence": 8,
+        "playlist_path": [
+          "Tribal"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "tribal"
+        ]
+      }
+    ],
+    "raw_tags": [
+      "electro",
+      "electronic",
+      "minimal",
+      "techno",
+      "tribal"
+    ],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "ad8f3a81-b53a-4d5c-ac09-cad88f3fc87e",
+        "title": "Cyclone",
+        "artist": "The Walkabouts",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "8c1616bb-12db-4edd-ad0e-936358aa2f54",
+        "title": "Cyclone",
+        "artist": "Upright Citizens",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "3cbfe8de-e67a-44a7-b689-bfbf29f086f7",
+        "title": "Cyclone",
+        "artist": "Technasia",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "85bd4cd7-af31-4d26-9429-e2cc92a7ff98",
+        "title": "Cyclone",
+        "artist": "Earthbound",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "cc19cc32-aa2d-4c9d-a38b-63c4fa287e0c",
+        "title": "Cyclone",
+        "artist": "The Unknown",
+        "score": 100.0,
+        "search_mode": "title_only"
+      }
+    ],
+    "year": 1985,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'baby bash, t-pain::cyclone'",
+      "Display title field: 'Cyclone'",
+      "MusicBrainz lookup metadata: artist='baby bash, t-pain', title='cyclone'",
+      "SEARCH [artist_title]: artist:\"baby bash, t-pain\" AND recording:\"cyclone\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22baby+bash%2C+t-pain%22+AND+recording%3A%22cyclone%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"cyclone\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22cyclone%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | The Walkabouts - Cyclone | id=ad8f3a81-b53a-4d5c-ac09-cad88f3fc87e",
+      "  - score=100 | Upright Citizens - Cyclone | id=8c1616bb-12db-4edd-ad0e-936358aa2f54",
+      "  - score=100 | Technasia - Cyclone | id=3cbfe8de-e67a-44a7-b689-bfbf29f086f7",
+      "  - score=100 | Earthbound - Cyclone | id=85bd4cd7-af31-4d26-9429-e2cc92a7ff98",
+      "  - score=100 | The Unknown - Cyclone | id=cc19cc32-aa2d-4c9d-a38b-63c4fa287e0c",
+      "LOOKUP [title_only]: score=100.0 | The Walkabouts - Cyclone | ad8f3a81-b53a-4d5c-ac09-cad88f3fc87e",
+      "  year candidate: 1988",
+      "  album candidate: See Beautiful Rattlesnake Gardens",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | Upright Citizens - Cyclone | 8c1616bb-12db-4edd-ad0e-936358aa2f54",
+      "  year candidate: 1985",
+      "  album candidate: Open Eyes, Open Ears, a Brain to Think and a Mouth to Speak",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | Technasia - Cyclone | 3cbfe8de-e67a-44a7-b689-bfbf29f086f7",
+      "  year candidate: 2001",
+      "  album candidate: The Last DJ'z on Earth",
+      "  genres: 3 value(s)",
+      "  tags: 5 value(s)",
+      "LOOKUP [title_only]: score=100.0 | Earthbound - Cyclone | 85bd4cd7-af31-4d26-9429-e2cc92a7ff98",
+      "  year candidate: 2000",
+      "  album candidate: Jungle Jazz, Volume 4",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | The Unknown - Cyclone | cc19cc32-aa2d-4c9d-a38b-63c4fa287e0c",
+      "  year candidate: 2001",
+      "  album candidate: Pop-Punk Fever",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 5",
+      "Raw tags: electro, electronic, minimal, techno, tribal",
+      "Mapped SORTED playlist suggestions: 5",
+      "  -> Techno (100%) path=SORTED/Techno exists=False",
+      "  -> Electronic (67%) path=SORTED/Electronic exists=False",
+      "  -> Electro (33%) path=SORTED/Electro exists=False",
+      "  -> Minimal (8%) path=SORTED/Minimal exists=False",
+      "  -> Tribal (8%) path=SORTED/Tribal exists=False"
+    ],
+    "album": "Pop-Punk Fever",
+    "automatic": false
+  },
+  "009::nicki minaj - starships": {
+    "status": "not_found",
+    "artist": "009",
+    "title": "nicki minaj - starships",
+    "query_artist": "009",
+    "query_title": "nicki minaj - starships",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: '009::nicki minaj - starships'",
+      "Display title field: 'Nicki Minaj - Starships'",
+      "MusicBrainz lookup metadata: artist='009', title='nicki minaj - starships'",
+      "SEARCH [artist_title]: artist:\"009\" AND recording:\"nicki minaj - starships\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22009%22+AND+recording%3A%22nicki+minaj+-+starships%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"nicki minaj - starships\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22nicki+minaj+-+starships%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": null,
+    "automatic": true
+  },
+  "014::daft punk": {
+    "status": "ok",
+    "artist": "014",
+    "title": "daft punk",
+    "query_artist": "014",
+    "query_title": "daft punk",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "50faeb02-6bdd-435d-a562-f2c90407d00d",
+        "title": "daft punk",
+        "artist": "odaxelagnia",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "93ada731-173f-42fd-94bc-17ef911caa55",
+        "title": "Daft Punk",
+        "artist": "itami",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "c80f1b9b-d902-4af8-85d1-5449b3add942",
+        "title": "Daft punk",
+        "artist": "Free Mobile Ringtones",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "41f9e91c-0e85-4c22-b3b4-1c0976a56a5e",
+        "title": "Daft Punk",
+        "artist": "Templar",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "95814510-2e37-41cb-b793-eae03ecc37d1",
+        "title": "Daft Punk",
+        "artist": "Starving GOGO",
+        "score": 100.0,
+        "search_mode": "title_only"
+      }
+    ],
+    "year": 2014,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: '014::daft punk'",
+      "Display title field: 'Daft Punk ft'",
+      "MusicBrainz lookup metadata: artist='014', title='daft punk'",
+      "SEARCH [artist_title]: artist:\"014\" AND recording:\"daft punk\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22014%22+AND+recording%3A%22daft+punk%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"daft punk\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22daft+punk%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | odaxelagnia - daft punk | id=50faeb02-6bdd-435d-a562-f2c90407d00d",
+      "  - score=100 | itami - Daft Punk | id=93ada731-173f-42fd-94bc-17ef911caa55",
+      "  - score=100 | Free Mobile Ringtones - Daft punk | id=c80f1b9b-d902-4af8-85d1-5449b3add942",
+      "  - score=100 | Templar - Daft Punk | id=41f9e91c-0e85-4c22-b3b4-1c0976a56a5e",
+      "  - score=100 | Starving GOGO - Daft Punk | id=95814510-2e37-41cb-b793-eae03ecc37d1",
+      "LOOKUP [title_only]: score=100.0 | odaxelagnia - daft punk | 50faeb02-6bdd-435d-a562-f2c90407d00d",
+      "  year candidate: 2016",
+      "  album candidate: Intensywnie Średnie Żarty Dla Gimbusów",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | itami - Daft Punk | 93ada731-173f-42fd-94bc-17ef911caa55",
+      "  year candidate: 2018",
+      "  album candidate: 乀乄𠂇",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | Free Mobile Ringtones - Daft punk | c80f1b9b-d902-4af8-85d1-5449b3add942",
+      "  year candidate: 2026",
+      "  album candidate: Unofficial Nightcore Songs Pack Volume One",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | Templar - Daft Punk | 41f9e91c-0e85-4c22-b3b4-1c0976a56a5e",
+      "  year candidate: 2021",
+      "  album candidate: In - Extenso",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | Starving GOGO - Daft Punk | 95814510-2e37-41cb-b793-eae03ecc37d1",
+      "  year candidate: 2014",
+      "  album candidate: L(a)UNCHBOX",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": "乀乄𠂇",
+    "automatic": true
+  },
+  "daft punk::get lucky": {
+    "status": "ok",
+    "artist": "daft punk",
+    "title": "get lucky",
+    "query_artist": "daft punk",
+    "query_title": "get lucky",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "0347d102-b653-4c6c-a0b2-cc9a58c5c585",
+        "title": "Get Lucky",
+        "artist": "Daft Punk",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "97c21330-5552-41db-ba0d-249f4c833267",
+        "title": "Get Lucky",
+        "artist": "Daft Punk",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "604b0c12-31a3-4219-8965-70051e2289db",
+        "title": "Get Lucky",
+        "artist": "Daft Punk",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "6e3be8e1-0c63-4fb9-8e7b-9ca536857758",
+        "title": "Get Lucky",
+        "artist": "Daft Punk",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "345e4a72-46b4-48ba-8541-27c6b23c3b8c",
+        "title": "Get Lucky",
+        "artist": "Daft Punk",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "year": 2013,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'daft punk::get lucky'",
+      "Display title field: 'Get Lucky'",
+      "MusicBrainz lookup metadata: artist='daft punk', title='get lucky'",
+      "SEARCH [artist_title]: artist:\"daft punk\" AND recording:\"get lucky\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22daft+punk%22+AND+recording%3A%22get+lucky%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | Daft Punk - Get Lucky | id=0347d102-b653-4c6c-a0b2-cc9a58c5c585",
+      "  - score=100 | Daft Punk - Get Lucky | id=97c21330-5552-41db-ba0d-249f4c833267",
+      "  - score=100 | Daft Punk - Get Lucky | id=604b0c12-31a3-4219-8965-70051e2289db",
+      "  - score=100 | Daft Punk - Get Lucky | id=6e3be8e1-0c63-4fb9-8e7b-9ca536857758",
+      "  - score=100 | Daft Punk - Get Lucky | id=345e4a72-46b4-48ba-8541-27c6b23c3b8c",
+      "LOOKUP [artist_title]: score=100.0 | Daft Punk - Get Lucky | 0347d102-b653-4c6c-a0b2-cc9a58c5c585",
+      "  year candidate: 2013",
+      "  album candidate: Mastermix: DJ Beats, Volume 8",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Daft Punk - Get Lucky | 97c21330-5552-41db-ba0d-249f4c833267",
+      "  year candidate: 2024",
+      "  album candidate: Piece by Piece Full Soundtrack",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Daft Punk - Get Lucky | 604b0c12-31a3-4219-8965-70051e2289db",
+      "  year candidate: 2015",
+      "  album candidate: F*** You I’m F.A.P!",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Daft Punk - Get Lucky | 6e3be8e1-0c63-4fb9-8e7b-9ca536857758",
+      "  year candidate: 2015",
+      "  album candidate: Schule für E‐Gitarre",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Daft Punk - Get Lucky | 345e4a72-46b4-48ba-8541-27c6b23c3b8c",
+      "  year candidate: 2017",
+      "  album candidate: Undercover, Vol. 2",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": "Undercover, Vol. 2",
+    "automatic": false
+  },
+  "016::taylor swift - i knew you were trouble": {
+    "status": "not_found",
+    "artist": "016",
+    "title": "taylor swift - i knew you were trouble",
+    "query_artist": "016",
+    "query_title": "taylor swift - i knew you were trouble",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: '016::taylor swift - i knew you were trouble'",
+      "Display title field: 'Taylor Swift - I Knew You Were Trouble'",
+      "MusicBrainz lookup metadata: artist='016', title='taylor swift - i knew you were trouble'",
+      "SEARCH [artist_title]: artist:\"016\" AND recording:\"taylor swift - i knew you were trouble\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22016%22+AND+recording%3A%22taylor+swift+-+i+knew+you+were+trouble%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"taylor swift - i knew you were trouble\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22taylor+swift+-+i+knew+you+were+trouble%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": null,
+    "automatic": true
+  },
+  "taylor swift::i knew you were trouble": {
+    "status": "ok",
+    "artist": "taylor swift",
+    "title": "i knew you were trouble",
+    "query_artist": "taylor swift",
+    "query_title": "i knew you were trouble",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "231f8773-f230-43da-a218-bfd47c0472c7",
+        "title": "I Knew You Were Trouble",
+        "artist": "Taylor Swift",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "26a497d3-88bb-4023-b7af-b5ac7e9a7861",
+        "title": "I Knew You Were Trouble.",
+        "artist": "Taylor Swift",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "1a0295eb-3134-4c11-a638-83006531c344",
+        "title": "I Knew You Were Trouble",
+        "artist": "Taylor Swift",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "caa1d106-c9da-48b6-819c-7e210074f834",
+        "title": "I Knew You Were Trouble",
+        "artist": "Taylor Swift",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "df3b1053-e8b7-4607-a3b5-a6292b531019",
+        "title": "I Knew You Were Trouble",
+        "artist": "Taylor Swift",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "year": 2012,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'taylor swift::i knew you were trouble'",
+      "Display title field: 'I Knew You Were Trouble'",
+      "MusicBrainz lookup metadata: artist='taylor swift', title='i knew you were trouble'",
+      "SEARCH [artist_title]: artist:\"taylor swift\" AND recording:\"i knew you were trouble\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22taylor+swift%22+AND+recording%3A%22i+knew+you+were+trouble%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | Taylor Swift - I Knew You Were Trouble | id=231f8773-f230-43da-a218-bfd47c0472c7",
+      "  - score=100 | Taylor Swift - I Knew You Were Trouble. | id=26a497d3-88bb-4023-b7af-b5ac7e9a7861",
+      "  - score=100 | Taylor Swift - I Knew You Were Trouble | id=1a0295eb-3134-4c11-a638-83006531c344",
+      "  - score=100 | Taylor Swift - I Knew You Were Trouble | id=caa1d106-c9da-48b6-819c-7e210074f834",
+      "  - score=100 | Taylor Swift - I Knew You Were Trouble | id=df3b1053-e8b7-4607-a3b5-a6292b531019",
+      "LOOKUP [artist_title]: score=100.0 | Taylor Swift - I Knew You Were Trouble | 231f8773-f230-43da-a218-bfd47c0472c7",
+      "  year candidate: 2024",
+      "  album candidate: The Eras Tour: The Unforgettable Night",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Taylor Swift - I Knew You Were Trouble. | 26a497d3-88bb-4023-b7af-b5ac7e9a7861",
+      "  year candidate: 2023",
+      "  album candidate: Taylor Swift at the BBC",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Taylor Swift - I Knew You Were Trouble | 1a0295eb-3134-4c11-a638-83006531c344",
+      "  year candidate: 2023",
+      "  album candidate: 2023-03-17: State Farm Stadium, Glendale, AZ, USA",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Taylor Swift - I Knew You Were Trouble | caa1d106-c9da-48b6-819c-7e210074f834",
+      "  year candidate: 2012",
+      "  album candidate: I Knew You Were Trouble",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Taylor Swift - I Knew You Were Trouble | df3b1053-e8b7-4607-a3b5-a6292b531019",
+      "  year candidate: 2014",
+      "  album candidate: One Red Night: The Red Tour in Japan",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": "I Knew You Were Trouble",
+    "automatic": false
+  },
+  "::24 mahmood - soldi": {
+    "status": "not_found",
+    "artist": "",
+    "title": "24 mahmood - soldi",
+    "query_artist": "",
+    "query_title": "24 mahmood - soldi",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: '::24 mahmood - soldi'",
+      "Display title field: '24. Mahmood - Soldi'",
+      "MusicBrainz lookup metadata: artist='', title='24 mahmood - soldi'",
+      "SEARCH [artist_title]: recording:\"24 mahmood - soldi\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%2224+mahmood+-+soldi%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": null,
+    "automatic": true
+  },
+  "2crimes::one kiss": {
+    "status": "ok",
+    "artist": "2crimes",
+    "title": "one kiss",
+    "query_artist": "2crimes",
+    "query_title": "one kiss",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "b5cc797c-6baf-439d-bbda-c2b3d0faabb9",
+        "title": "One Kiss",
+        "artist": "浜田麻里",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "925b69e9-6fa5-421f-94fa-0ef29fddb9ed",
+        "title": "One Kiss",
+        "artist": "Brian Tyler",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "964a7f63-3ffa-4af9-8ebe-f6218046bfd7",
+        "title": "One Kiss",
+        "artist": "Barkin' Bill",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "6d2a53c7-12ac-4b39-bf86-63cd839d0547",
+        "title": "One Kiss",
+        "artist": "Circle of Soul",
+        "score": 100.0,
+        "search_mode": "title_only"
+      },
+      {
+        "id": "fbaf288f-eee7-47ec-8643-747b25c305e4",
+        "title": "One Kiss",
+        "artist": "Zachary Richard",
+        "score": 100.0,
+        "search_mode": "title_only"
+      }
+    ],
+    "year": 1991,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: '2crimes::one kiss'",
+      "Display title field: 'ONE KISS'",
+      "MusicBrainz lookup metadata: artist='2crimes', title='one kiss'",
+      "SEARCH [artist_title]: artist:\"2crimes\" AND recording:\"one kiss\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%222crimes%22+AND+recording%3A%22one+kiss%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"one kiss\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22one+kiss%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | 浜田麻里 - One Kiss | id=b5cc797c-6baf-439d-bbda-c2b3d0faabb9",
+      "  - score=100 | Brian Tyler - One Kiss | id=925b69e9-6fa5-421f-94fa-0ef29fddb9ed",
+      "  - score=100 | Barkin' Bill - One Kiss | id=964a7f63-3ffa-4af9-8ebe-f6218046bfd7",
+      "  - score=100 | Circle of Soul - One Kiss | id=6d2a53c7-12ac-4b39-bf86-63cd839d0547",
+      "  - score=100 | Zachary Richard - One Kiss | id=fbaf288f-eee7-47ec-8643-747b25c305e4",
+      "LOOKUP [title_only]: score=100.0 | 浜田麻里 - One Kiss | b5cc797c-6baf-439d-bbda-c2b3d0faabb9",
+      "  year candidate: 1991",
+      "  album candidate: TOMORROW",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | Brian Tyler - One Kiss | 925b69e9-6fa5-421f-94fa-0ef29fddb9ed",
+      "  year candidate: 2003",
+      "  album candidate: Darkness Falls",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | Barkin' Bill - One Kiss | 964a7f63-3ffa-4af9-8ebe-f6218046bfd7",
+      "  album candidate: Gotcha!",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | Circle of Soul - One Kiss | 6d2a53c7-12ac-4b39-bf86-63cd839d0547",
+      "  year candidate: 1991",
+      "  album candidate: Hands of Faith",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [title_only]: score=100.0 | Zachary Richard - One Kiss | fbaf288f-eee7-47ec-8643-747b25c305e4",
+      "  year candidate: 1993",
+      "  album candidate: KBCO Studio C, Volume 3",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": "Gotcha!",
+    "automatic": true
+  },
+  "wheel::ups - kano & giggs bullet tooth boo": {
+    "status": "not_found",
+    "artist": "wheel",
+    "title": "ups - kano & giggs bullet tooth boo",
+    "query_artist": "wheel",
+    "query_title": "ups - kano & giggs bullet tooth boo",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'wheel::ups - kano & giggs bullet tooth boo'",
+      "Display title field: 'UPS - Kano & Giggs Bullet Tooth Boo'",
+      "MusicBrainz lookup metadata: artist='wheel', title='ups - kano & giggs bullet tooth boo'",
+      "SEARCH [artist_title]: artist:\"wheel\" AND recording:\"ups - kano & giggs bullet tooth boo\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22wheel%22+AND+recording%3A%22ups+-+kano+%26+giggs+bullet+tooth+boo%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"ups - kano & giggs bullet tooth boo\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22ups+-+kano+%26+giggs+bullet+tooth+boo%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": null,
+    "automatic": true
+  },
+  "kendrick lamar, skrillex::humble bassjackers bootleg - 2a - 150": {
+    "status": "not_found",
+    "artist": "kendrick lamar, skrillex",
+    "title": "humble bassjackers bootleg - 2a - 150",
+    "query_artist": "kendrick lamar, skrillex",
+    "query_title": "humble bassjackers bootleg - 2a - 150",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'kendrick lamar, skrillex::humble bassjackers bootleg - 2a - 150'",
+      "Display title field: 'Humble Bassjackers Bootleg - 2A - 150 (Intro - Clean)'",
+      "MusicBrainz lookup metadata: artist='kendrick lamar, skrillex', title='humble bassjackers bootleg - 2a - 150'",
+      "SEARCH [artist_title]: artist:\"kendrick lamar, skrillex\" AND recording:\"humble bassjackers bootleg - 2a - 150\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22kendrick+lamar%2C+skrillex%22+AND+recording%3A%22humble+bassjackers+bootleg+-+2a+-+150%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"humble bassjackers bootleg - 2a - 150\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22humble+bassjackers+bootleg+-+2a+-+150%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": null,
+    "automatic": true
+  },
+  "travis scott::goosebumps - 9a - 130": {
+    "status": "not_found",
+    "artist": "travis scott",
+    "title": "goosebumps - 9a - 130",
+    "query_artist": "travis scott",
+    "query_title": "goosebumps - 9a - 130",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'travis scott::goosebumps - 9a - 130'",
+      "Display title field: 'Goosebumps - 9A - 130 (Intro - Clean)'",
+      "MusicBrainz lookup metadata: artist='travis scott', title='goosebumps - 9a - 130'",
+      "SEARCH [artist_title]: artist:\"travis scott\" AND recording:\"goosebumps - 9a - 130\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22travis+scott%22+AND+recording%3A%22goosebumps+-+9a+-+130%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"goosebumps - 9a - 130\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22goosebumps+-+9a+-+130%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": null,
+    "automatic": true
+  },
+  "bpm::drake - headlines": {
+    "status": "ok",
+    "artist": "bpm",
+    "title": "drake - headlines",
+    "query_artist": "bpm",
+    "query_title": "drake - headlines",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": 0,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'bpm::drake - headlines'",
+      "Display title field: 'Drake - Headlines (Intro - Dirty)'",
+      "MusicBrainz lookup metadata: artist='bpm', title='drake - headlines'",
+      "SEARCH [artist_title]: artist:\"bpm\" AND recording:\"drake - headlines\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22bpm%22+AND+recording%3A%22drake+-+headlines%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"drake - headlines\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22drake+-+headlines%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": "DJZ.to"
+  },
+  "not::like us kendrick lamar sickmix": {
+    "status": "not_found",
+    "artist": "not",
+    "title": "like us kendrick lamar sickmix",
+    "query_artist": "not",
+    "query_title": "like us kendrick lamar sickmix",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": null,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'not::like us kendrick lamar sickmix'",
+      "Display title field: 'Like Us Kendrick Lamar Sickmix (Intro - Clean)'",
+      "MusicBrainz lookup metadata: artist='not', title='like us kendrick lamar sickmix'",
+      "SEARCH [artist_title]: artist:\"not\" AND recording:\"like us kendrick lamar sickmix\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22not%22+AND+recording%3A%22like+us+kendrick+lamar+sickmix%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"like us kendrick lamar sickmix\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22like+us+kendrick+lamar+sickmix%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": null,
+    "automatic": true
+  },
+  "kendrick lamar::not like us sickmix": {
+    "status": "not_found",
+    "artist": "kendrick lamar",
+    "title": "not like us sickmix",
+    "query_artist": "kendrick lamar",
+    "query_title": "not like us sickmix",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [],
+    "year": null,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'kendrick lamar::not like us sickmix'",
+      "Display title field: 'Not Like Us Sickmix (Intro - Clean)'",
+      "MusicBrainz lookup metadata: artist='kendrick lamar', title='not like us sickmix'",
+      "SEARCH [artist_title]: artist:\"kendrick lamar\" AND recording:\"not like us sickmix\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22kendrick+lamar%22+AND+recording%3A%22not+like+us+sickmix%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "SEARCH [title_only]: recording:\"not like us sickmix\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=recording%3A%22not+like+us+sickmix%22&fmt=json&limit=5",
+      "Recordings returned: 0",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": null,
+    "automatic": false
+  },
+  "kendrick lamar::not like us": {
+    "status": "ok",
+    "artist": "kendrick lamar",
+    "title": "not like us",
+    "query_artist": "kendrick lamar",
+    "query_title": "not like us",
+    "suggestions": [
+      {
+        "name": "Hip Hop",
+        "score": 8.0,
+        "confidence": 100,
+        "playlist_path": [
+          "Hip Hop"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "hip hop"
+        ]
+      },
+      {
+        "name": "5+ Wochen",
+        "score": 1.0,
+        "confidence": 12,
+        "playlist_path": [
+          "5+ Wochen"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "5+ wochen"
+        ]
+      },
+      {
+        "name": "Billboard Hot 100",
+        "score": 1.0,
+        "confidence": 12,
+        "playlist_path": [
+          "Billboard Hot 100"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "billboard hot 100"
+        ]
+      },
+      {
+        "name": "Billboard Hot 100 2025",
+        "score": 1.0,
+        "confidence": 12,
+        "playlist_path": [
+          "Billboard Hot 100 2025"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "billboard hot 100 2025"
+        ]
+      },
+      {
+        "name": "Billboard No 1",
+        "score": 1.0,
+        "confidence": 12,
+        "playlist_path": [
+          "Billboard No 1"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "billboard no 1"
+        ]
+      },
+      {
+        "name": "Billboard No 1 2024",
+        "score": 1.0,
+        "confidence": 12,
+        "playlist_path": [
+          "Billboard No 1 2024"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "billboard no 1 2024"
+        ]
+      },
+      {
+        "name": "English",
+        "score": 1.0,
+        "confidence": 12,
+        "playlist_path": [
+          "English"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "english"
+        ]
+      },
+      {
+        "name": "Offizielle Charts",
+        "score": 1.0,
+        "confidence": 12,
+        "playlist_path": [
+          "Offizielle Charts"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "offizielle charts"
+        ]
+      },
+      {
+        "name": "Ph 2 Stars",
+        "score": 1.0,
+        "confidence": 12,
+        "playlist_path": [
+          "Ph 2 Stars"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "ph_2_stars"
+        ]
+      },
+      {
+        "name": "Ph Temp Checken",
+        "score": 1.0,
+        "confidence": 12,
+        "playlist_path": [
+          "Ph Temp Checken"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "ph_temp_checken"
+        ]
+      }
+    ],
+    "raw_tags": [
+      "5+ wochen",
+      "billboard hot 100",
+      "billboard hot 100 2025",
+      "billboard no 1",
+      "billboard no 1 2024",
+      "english",
+      "hip hop",
+      "offizielle charts",
+      "ph_2_stars",
+      "ph_temp_checken"
+    ],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "167b0a18-8923-4f64-82dd-30fb57e6216f",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "5a1f1b44-4aad-415c-9076-986050462f72",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "7c18b4ae-3977-4fe4-b62a-35d030d78016",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "88f628b8-5564-4c70-9a07-8a66d14bf7be",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "becbdb07-b258-4824-afe9-1e802f15223a",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "year": 2024,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'kendrick lamar::not like us'",
+      "Display title field: 'Not Like Us'",
+      "MusicBrainz lookup metadata: artist='kendrick lamar', title='not like us'",
+      "SEARCH [artist_title]: artist:\"kendrick lamar\" AND recording:\"not like us\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22kendrick+lamar%22+AND+recording%3A%22not+like+us%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | Kendrick Lamar - Not Like Us | id=167b0a18-8923-4f64-82dd-30fb57e6216f",
+      "  - score=100 | Kendrick Lamar - Not Like Us | id=5a1f1b44-4aad-415c-9076-986050462f72",
+      "  - score=100 | Kendrick Lamar - Not Like Us | id=7c18b4ae-3977-4fe4-b62a-35d030d78016",
+      "  - score=100 | Kendrick Lamar - Not Like Us | id=88f628b8-5564-4c70-9a07-8a66d14bf7be",
+      "  - score=100 | Kendrick Lamar - Not Like Us | id=becbdb07-b258-4824-afe9-1e802f15223a",
+      "LOOKUP [artist_title]: score=100.0 | Kendrick Lamar - Not Like Us | 167b0a18-8923-4f64-82dd-30fb57e6216f",
+      "  year candidate: 2024",
+      "  album candidate: Civil War",
+      "  genres: 1 value(s)",
+      "  tags: 10 value(s)",
+      "LOOKUP [artist_title]: score=100.0 | Kendrick Lamar - Not Like Us | 5a1f1b44-4aad-415c-9076-986050462f72",
+      "  year candidate: 2024",
+      "  album candidate: Today’s Hits: July 2024",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Kendrick Lamar - Not Like Us | 7c18b4ae-3977-4fe4-b62a-35d030d78016",
+      "  year candidate: 2024",
+      "  album candidate: Not Like Us",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Kendrick Lamar - Not Like Us | 88f628b8-5564-4c70-9a07-8a66d14bf7be",
+      "  year candidate: 2025",
+      "  album candidate: 2025 Super Bowl LIX Megamix",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Kendrick Lamar - Not Like Us | becbdb07-b258-4824-afe9-1e802f15223a",
+      "  year candidate: 2024",
+      "  album candidate: The Pop Out: Ken & Friends",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 10",
+      "Raw tags: 5+ wochen, billboard hot 100, billboard hot 100 2025, billboard no 1, billboard no 1 2024, english, hip hop, offizielle charts, ph_2_stars, ph_temp_checken",
+      "Mapped SORTED playlist suggestions: 10",
+      "  -> Hip Hop (100%) path=SORTED/Hip Hop exists=False",
+      "  -> 5+ Wochen (12%) path=SORTED/5+ Wochen exists=False",
+      "  -> Billboard Hot 100 (12%) path=SORTED/Billboard Hot 100 exists=False",
+      "  -> Billboard Hot 100 2025 (12%) path=SORTED/Billboard Hot 100 2025 exists=False",
+      "  -> Billboard No 1 (12%) path=SORTED/Billboard No 1 exists=False",
+      "  -> Billboard No 1 2024 (12%) path=SORTED/Billboard No 1 2024 exists=False",
+      "  -> English (12%) path=SORTED/English exists=False",
+      "  -> Offizielle Charts (12%) path=SORTED/Offizielle Charts exists=False",
+      "  -> Ph 2 Stars (12%) path=SORTED/Ph 2 Stars exists=False",
+      "  -> Ph Temp Checken (12%) path=SORTED/Ph Temp Checken exists=False"
+    ],
+    "album": "Civil War",
+    "automatic": false
+  },
+  "baby bash::cyclone": {
+    "status": "ok",
+    "artist": "baby bash",
+    "title": "cyclone",
+    "query_artist": "baby bash",
+    "query_title": "cyclone",
+    "suggestions": [
+      {
+        "name": "Hip Hop",
+        "score": 14.0,
+        "confidence": 100,
+        "playlist_path": [
+          "RAP",
+          "HIPHOP"
+        ],
+        "playlist_exists": true,
+        "source_tags": [
+          "hip hop",
+          "rap"
+        ]
+      },
+      {
+        "name": "Latin",
+        "score": 4.0,
+        "confidence": 29,
+        "playlist_path": [
+          "Latin"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "latin"
+        ]
+      },
+      {
+        "name": "Pop",
+        "score": 4.0,
+        "confidence": 29,
+        "playlist_path": [
+          "POP",
+          "POP"
+        ],
+        "playlist_exists": true,
+        "source_tags": [
+          "pop"
+        ]
+      },
+      {
+        "name": "Pop Rap",
+        "score": 4.0,
+        "confidence": 29,
+        "playlist_path": [
+          "Pop Rap"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "pop rap"
+        ]
+      }
+    ],
+    "raw_tags": [
+      "hip hop",
+      "latin",
+      "pop",
+      "pop rap",
+      "rap"
+    ],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "81c08f83-7a94-4a36-ba87-8addcc5ece9f",
+        "title": "Cyclone",
+        "artist": "Baby Bash",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "635a957c-779f-4fee-8411-03abba9a9a42",
+        "title": "Cyclone",
+        "artist": "Baby Bash, T‐Pain",
+        "score": 80.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "00fbe999-1ba0-47cc-9017-ebd82ebe4ec3",
+        "title": "Cyclone",
+        "artist": "Baby Bash, T‐Pain",
+        "score": 80.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "a87d6499-09e7-42b8-a2b6-74d4244cb871",
+        "title": "Cyclone",
+        "artist": "Baby Bash, T‐Pain",
+        "score": 80.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "ff206e10-285d-4627-9548-1aef005aa455",
+        "title": "Cyclone",
+        "artist": "Baby Bash, T‐Pain",
+        "score": 80.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "year": 2007,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'baby bash::cyclone'",
+      "Display title field: 'Cyclone'",
+      "MusicBrainz lookup metadata: artist='baby bash', title='cyclone'",
+      "SEARCH [artist_title]: artist:\"baby bash\" AND recording:\"cyclone\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22baby+bash%22+AND+recording%3A%22cyclone%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | Baby Bash - Cyclone | id=81c08f83-7a94-4a36-ba87-8addcc5ece9f",
+      "  - score=80 | Baby Bash, T‐Pain - Cyclone | id=635a957c-779f-4fee-8411-03abba9a9a42",
+      "  - score=80 | Baby Bash, T‐Pain - Cyclone | id=00fbe999-1ba0-47cc-9017-ebd82ebe4ec3",
+      "  - score=80 | Baby Bash, T‐Pain - Cyclone | id=a87d6499-09e7-42b8-a2b6-74d4244cb871",
+      "  - score=80 | Baby Bash, T‐Pain - Cyclone | id=ff206e10-285d-4627-9548-1aef005aa455",
+      "LOOKUP [artist_title]: score=100.0 | Baby Bash - Cyclone | 81c08f83-7a94-4a36-ba87-8addcc5ece9f",
+      "  year candidate: 2009",
+      "  album candidate: Crave, Volume 2",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=80.0 | Baby Bash, T‐Pain - Cyclone | 635a957c-779f-4fee-8411-03abba9a9a42",
+      "  year candidate: 2009",
+      "  album candidate: Crave, Volume 3",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=80.0 | Baby Bash, T‐Pain - Cyclone | 00fbe999-1ba0-47cc-9017-ebd82ebe4ec3",
+      "  year candidate: 2007",
+      "  album candidate: Promo Only: Urban Club, July 2007 (disc 1)",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=80.0 | Baby Bash, T‐Pain - Cyclone | a87d6499-09e7-42b8-a2b6-74d4244cb871",
+      "  year candidate: 2007",
+      "  album candidate: Cyclone",
+      "  genres: 4 value(s)",
+      "  tags: 5 value(s)",
+      "LOOKUP [artist_title]: score=80.0 | Baby Bash, T‐Pain - Cyclone | ff206e10-285d-4627-9548-1aef005aa455",
+      "  year candidate: 2007",
+      "  album candidate: Cyclone",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 5",
+      "Raw tags: hip hop, latin, pop, pop rap, rap",
+      "Mapped SORTED playlist suggestions: 4",
+      "  -> Hip Hop (100%) path=SORTED/RAP/HIPHOP exists=True",
+      "  -> Latin (29%) path=SORTED/Latin exists=False",
+      "  -> Pop (29%) path=SORTED/POP/POP exists=True",
+      "  -> Pop Rap (29%) path=SORTED/Pop Rap exists=False"
+    ],
+    "album": "Cyclone",
+    "automatic": false
+  },
+  "nicki minaj::starships": {
+    "status": "ok",
+    "artist": "nicki minaj",
+    "title": "starships",
+    "query_artist": "nicki minaj",
+    "query_title": "starships",
+    "suggestions": [],
+    "raw_tags": [],
+    "unmapped_tags": [],
+    "source_recordings": [
+      {
+        "id": "dc1751f2-68ef-46dd-b483-6a2e069e810a",
+        "title": "Starships",
+        "artist": "Nicki Minaj",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "babab6d7-35c8-49f9-b185-7f5ee1713bb2",
+        "title": "Starships",
+        "artist": "Nicki Minaj",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "76bab96f-d358-4bb0-bc7e-3908576f0cde",
+        "title": "Starships",
+        "artist": "Nicki Minaj",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "09c8f6f5-f7a3-48e6-913e-1a0b229a62b1",
+        "title": "Starships",
+        "artist": "Nicki Minaj",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "db62a07e-c87a-46a2-b84e-020d60ca8c61",
+        "title": "Starships",
+        "artist": "Nicki Minaj",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "year": 2012,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'nicki minaj::starships'",
+      "Display title field: 'Starships'",
+      "MusicBrainz lookup metadata: artist='nicki minaj', title='starships'",
+      "SEARCH [artist_title]: artist:\"nicki minaj\" AND recording:\"starships\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22nicki+minaj%22+AND+recording%3A%22starships%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | Nicki Minaj - Starships | id=dc1751f2-68ef-46dd-b483-6a2e069e810a",
+      "  - score=100 | Nicki Minaj - Starships | id=babab6d7-35c8-49f9-b185-7f5ee1713bb2",
+      "  - score=100 | Nicki Minaj - Starships | id=76bab96f-d358-4bb0-bc7e-3908576f0cde",
+      "  - score=100 | Nicki Minaj - Starships | id=09c8f6f5-f7a3-48e6-913e-1a0b229a62b1",
+      "  - score=100 | Nicki Minaj - Starships | id=db62a07e-c87a-46a2-b84e-020d60ca8c61",
+      "LOOKUP [artist_title]: score=100.0 | Nicki Minaj - Starships | dc1751f2-68ef-46dd-b483-6a2e069e810a",
+      "  year candidate: 2012",
+      "  album candidate: Pump It Up: The Ultimate Dance Workout",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Nicki Minaj - Starships | babab6d7-35c8-49f9-b185-7f5ee1713bb2",
+      "  year candidate: 2022",
+      "  album candidate: Queen Radio, Volume 1",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Nicki Minaj - Starships | 76bab96f-d358-4bb0-bc7e-3908576f0cde",
+      "  year candidate: 2015",
+      "  album candidate: Dancemania -Let’s Party-",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Nicki Minaj - Starships | 09c8f6f5-f7a3-48e6-913e-1a0b229a62b1",
+      "  year candidate: 2024",
+      "  album candidate: Pink Friday 2 World Tour",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Nicki Minaj - Starships | db62a07e-c87a-46a2-b84e-020d60ca8c61",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 0",
+      "Raw tags: none",
+      "Mapped SORTED playlist suggestions: 0"
+    ],
+    "album": "Queen Radio, Volume 1",
+    "automatic": false
+  },
+  "mahmood::soldi": {
+    "status": "ok",
+    "artist": "mahmood",
+    "title": "soldi",
+    "query_artist": "mahmood",
+    "query_title": "soldi",
+    "suggestions": [
+      {
+        "name": "R&B",
+        "score": 4.0,
+        "confidence": 100,
+        "playlist_path": [
+          "R&B"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "contemporary r&b"
+        ]
+      },
+      {
+        "name": "Context/contest",
+        "score": 1.0,
+        "confidence": 25,
+        "playlist_path": [
+          "Context/contest"
+        ],
+        "playlist_exists": false,
+        "source_tags": [
+          "context/contest"
+        ]
+      }
+    ],
+    "raw_tags": [
+      "contemporary r&b",
+      "context/contest",
+      "context/contest/eurovision-song-contest"
+    ],
+    "unmapped_tags": [
+      "context/contest/eurovision-song-contest"
+    ],
+    "source_recordings": [
+      {
+        "id": "2d3b810c-8df8-4f2f-8afc-945f22d70cb4",
+        "title": "Soldi",
+        "artist": "Mahmood",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "21bb04f0-84ce-44ba-937d-14cf27c09ad4",
+        "title": "Soldi",
+        "artist": "Mahmood",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "dcaff22e-142f-43c9-98a9-624378d2895e",
+        "title": "Soldi",
+        "artist": "Mahmood",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "4a87c4cb-40a6-4608-a9af-0b544ce8edea",
+        "title": "Soldi",
+        "artist": "Mahmood",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      },
+      {
+        "id": "2f5de5f7-76b2-4325-a308-f8f21c24dd53",
+        "title": "Soldi",
+        "artist": "Mahmood",
+        "score": 100.0,
+        "search_mode": "artist_title"
+      }
+    ],
+    "year": 2019,
+    "from_cache": false,
+    "debug": [
+      "MusicBrainz base URL: https://musicbrainz.org/ws/2",
+      "Cache key: 'mahmood::soldi'",
+      "Display title field: 'Soldi'",
+      "MusicBrainz lookup metadata: artist='mahmood', title='soldi'",
+      "SEARCH [artist_title]: artist:\"mahmood\" AND recording:\"soldi\"",
+      "URL: https://musicbrainz.org/ws/2/recording/?query=artist%3A%22mahmood%22+AND+recording%3A%22soldi%22&fmt=json&limit=5",
+      "Recordings returned: 5",
+      "  - score=100 | Mahmood - Soldi | id=2d3b810c-8df8-4f2f-8afc-945f22d70cb4",
+      "  - score=100 | Mahmood - Soldi | id=21bb04f0-84ce-44ba-937d-14cf27c09ad4",
+      "  - score=100 | Mahmood - Soldi | id=dcaff22e-142f-43c9-98a9-624378d2895e",
+      "  - score=100 | Mahmood - Soldi | id=4a87c4cb-40a6-4608-a9af-0b544ce8edea",
+      "  - score=100 | Mahmood - Soldi | id=2f5de5f7-76b2-4325-a308-f8f21c24dd53",
+      "LOOKUP [artist_title]: score=100.0 | Mahmood - Soldi | 2d3b810c-8df8-4f2f-8afc-945f22d70cb4",
+      "  year candidate: 2019",
+      "  album candidate: Eurovision Song Contest: Tel Aviv 2019",
+      "  genres: 1 value(s)",
+      "  tags: 3 value(s)",
+      "LOOKUP [artist_title]: score=100.0 | Mahmood - Soldi | 21bb04f0-84ce-44ba-937d-14cf27c09ad4",
+      "  year candidate: 2019",
+      "  album candidate: Radio Italia Spring 2019",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Mahmood - Soldi | dcaff22e-142f-43c9-98a9-624378d2895e",
+      "  year candidate: 2019",
+      "  album candidate: Eurovision Song Contest: Tel Aviv 2019",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Mahmood - Soldi | 4a87c4cb-40a6-4608-a9af-0b544ce8edea",
+      "  year candidate: 2019",
+      "  album candidate: Bravo Hits Lato 2019",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "LOOKUP [artist_title]: score=100.0 | Mahmood - Soldi | 2f5de5f7-76b2-4325-a308-f8f21c24dd53",
+      "  year candidate: 2019",
+      "  album candidate: Hot Party Spring 2019",
+      "  genres: 0 value(s)",
+      "  tags: 0 value(s)",
+      "  No genres/tags on this MusicBrainz recording.",
+      "Raw unique tags returned: 3",
+      "Raw tags: contemporary r&b, context/contest, context/contest/eurovision-song-contest",
+      "Mapped SORTED playlist suggestions: 2",
+      "  -> R&B (100%) path=SORTED/R&B exists=False",
+      "  -> Context/contest (25%) path=SORTED/Context/contest exists=False"
+    ],
+    "album": "Eurovision Song Contest: Tel Aviv 2019"
+  }
+}
