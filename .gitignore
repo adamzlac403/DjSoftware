@@ -8,3 +8,8 @@ OILS (1).sockseek_state.json
 *.exe
 *.exe
 *.exe
+_sockseek_preview_limbo/
+sockseek_picker_rewrite/_sockseek_preview_limbo/
+*.pyc
+__pycache__/
+*.incomplete
